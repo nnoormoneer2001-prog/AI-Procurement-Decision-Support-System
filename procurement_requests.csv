@@ -1,0 +1,9 @@
+﻿request_id,employee_name,department,item,reason,cost,budget,manager_approval
+REQ-001,Noor Moneer,IT,Laptop,Software development,800,1000,Yes
+REQ-002,Ahmad Saleh,Finance,Printer,Office document printing,450,600,Yes
+REQ-003,Lina Khaled,HR,Office Chair,Employee workspace,250,,Yes
+REQ-004,Omar Hassan,Operations,Safety Equipment,Workplace safety,300,500,
+REQ-005,Sara Ali,IT,Laptop,Software development,1500,1000,Yes
+REQ-006,Khaled Nasser,Finance,Printer,Office document printing,1000,1000,Yes
+REQ-007,Maya Samir,Marketing,Monitor,Design and reporting work,-200,500,Yes
+REQ-008,Rami Adel,Operations,Desk,Employee workspace,350,500,Pending
